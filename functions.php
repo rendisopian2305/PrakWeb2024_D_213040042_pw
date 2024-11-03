@@ -3,7 +3,7 @@
 function koneksi()
 {
     // koneksi ke MySQL & memilih DB
-    $conn = mysqli_connect('localhost', 'root', '', 'prakweb_2023_a_213040007') or die('koneksi ke database GAGAL!');
+    $conn = mysqli_connect('localhost', 'root', '', 'PrakWeb_2024_D_213040042') or die('koneksi ke database GAGAL!');
 
     return $conn;
 }

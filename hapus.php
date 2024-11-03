@@ -8,4 +8,5 @@ if (hapus($id) > 0) {
             alert('Data Berhasil Dihapus!');
             document.location.href = 'index.php';
           </script>";
+          
 }
